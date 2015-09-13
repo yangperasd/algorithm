@@ -7,8 +7,9 @@
 
 #include<iostream>
 #include <list>
+#include <functional>
 using namespace std;
 int main()
 {
-    list<int> alist;
+    using fuck=list<int>::value_type;
 }
