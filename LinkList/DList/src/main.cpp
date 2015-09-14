@@ -8,6 +8,7 @@
 #include<iostream>
 #include <list>
 #include <functional>
+#include "DList.h"
 using namespace std;
 int main()
 {
